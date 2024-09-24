@@ -1,4 +1,3 @@
-Attribute VB_Name = "tablaxfx"
 Sub tabla_xfdx()
 
 paso = 0.1
@@ -17,6 +16,6 @@ Final = 20  'total de datos
 End Sub
 
 Function fm(m)
-fm = 2 * m ^ 3 + Log(m) - Cos(m) / Exp(m) + Sin(m)
+    fm = 2 * m ^ 3 + Log(m) - Cos(m) / Exp(m) + Sin(m)
 End Function
 
