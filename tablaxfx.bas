@@ -1,5 +1,7 @@
 Sub tabla_xfdx()
 
+# Tabla 
+
 paso = 0.1
 Final = 20  'total de datos
 
